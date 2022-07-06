@@ -22,7 +22,7 @@
 
 ## Project Setup
 
-- just take all the files and run it in our machine.
+- just take all the files and run it in your machine.
 
 ## Contribution
 
