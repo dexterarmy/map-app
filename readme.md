@@ -22,7 +22,40 @@
 
 ## Project Setup
 
-- just take all the files and run it in your machine.
+- first install node.js and npm in your local machine
+- npm is tied closely to Node.js and it is recommended that they be installed together. Most distros even list them as dependencies of one another
+- to install npm on ubuntu you can use commands like
+
+```bash
+$ sudo apt install npm
+OR
+$ sudo apt install npm nodejs
+```
+
+- you can find appropriate commands/ways to install nodejs and npm on your system.
+- then use commands to see the version of npm and nodejs like
+
+```bash
+$ npm -v
+$ node -v
+```
+
+- if the version shows that means npm and nodejs is installed on your system.
+- then install live-server package which is in npm with the command:
+
+```bash
+$ npm install live-server
+```
+
+- then fork and clone the project's repository
+- then on your machine just run live-server command in the project's folder
+
+```bash
+$ live-server
+```
+
+- this will build a development server which you can use to run the project locally.
+- then go to the server url and see the project running.
 
 ## Contribution
 
