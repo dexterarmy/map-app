@@ -1,6 +1,6 @@
 # Map App
 
-![map image](https://www.siasat.com/wp-content/uploads/2019/06/Google-Maps.jpg)
+![map image](map.png)
 
 > This is an application which displays your workout details and location on the map based on the workout form you fill and the location you choose.
 
